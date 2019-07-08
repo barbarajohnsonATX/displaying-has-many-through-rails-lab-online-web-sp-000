@@ -7,6 +7,4 @@ class PatientsController < ApplicationController
     @patients = Patient.all
   end
 
- 
-  
 end
